@@ -1,4 +1,4 @@
-arkexpander
+Ark Expander
 ===========
 
 Ark Expander is a simple program that will expand a Guitar Hero ARK file into a number of individual folders and files, and alternatively turn these files back into an ARK file. It works with the PlayStation2 version of Guitar Hero, Guitar Hero 2, and Guitar Hero Rocks The 80's. It is written in 100% pure Java, and should run on any Windows or Mac OS X capable of running Java. 
