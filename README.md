@@ -18,3 +18,7 @@ Developer's notes
 Thanks
 ------
 Thanks to the customs community at scorehero, and special thanks to Riff, who decoded the ARK format and published his results at http://www.scorehero.com/forum/viewtopic.php?t=1179.
+
+Note
+----
+This program was written in 2007, and transferred to GitHub for safe keeping in October 2014.
